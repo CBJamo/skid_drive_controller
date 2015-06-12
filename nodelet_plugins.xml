@@ -1,0 +1,5 @@
+<library path="lib/libbase_controller_nodelet">
+  <class name="skid_drive_controller/base_controller_nodelet" type="base_controller::base_controller_nodelet" base_class_type="nodelet::Nodelet">
+    <description>Generic base controller for skid drive robots</description>
+  </class>
+</library>
